@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 this is the portfolio Website 
 go check it out on 
-rahulrawat.netlify.app
+https://rahulrawat.netlify.app
 =======
 # My-Portfolio
 my Portfoliyo
